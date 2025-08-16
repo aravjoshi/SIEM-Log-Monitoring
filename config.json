@@ -1,0 +1,15 @@
+
+{
+  "log_sources": {
+    "system": "mock_logs/system.log",
+    "firewall": "mock_logs/firewall.log",
+    "auth": "mock_logs/auth.log"
+  },
+  "alert_thresholds": {
+    "failed_logins": 3,
+    "suspicious_ip": ["203.0.113.45", "10.0.0.5"]
+  },
+  "output": {
+    "alerts": "alerts.json"
+  }
+}
