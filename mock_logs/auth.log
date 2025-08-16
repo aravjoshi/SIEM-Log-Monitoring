@@ -1,0 +1,5 @@
+2025-08-15T12:15:30 Accepted password for admin from 192.168.1.10 port 22 ssh2
+2025-08-15T12:16:02 Failed password for invalid user guest from 203.0.113.45 port 2222 ssh2
+2025-08-15T12:16:45 Connection closed by authenticating user john 192.168.1.15 port 443
+2025-08-15T12:17:18 Failed password for root from 10.0.0.5 port 3389 ssh2
+2025-08-15T12:18:01 Accepted password for john from 192.168.1.15 port 22 ssh2
